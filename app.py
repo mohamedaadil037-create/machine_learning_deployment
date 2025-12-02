@@ -50,4 +50,4 @@ print("Prediction endpoint updated with preprocessing and prediction logic.")
 
 if __name__ == "__main__":
     print("Starting prediction API with preprocessing and model inference...")
-    app.run(debug=True)  
+    app.run(debug=True) 
